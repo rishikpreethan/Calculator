@@ -1,3 +1,10 @@
+body {
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #main {
     background: black;
     padding: 20px;
